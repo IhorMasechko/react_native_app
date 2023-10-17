@@ -2,7 +2,7 @@
 
 ## App view
 
- <img src="./star_wars_app/assets/StarWarsVideo.gif" width="300" height="650">
+ <img src="./assets/UsersPosts.gif" width="300" height="650">
 
 ## Implementation of the project
 
